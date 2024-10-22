@@ -1,3 +1,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer components {
+    .page-block {
+        @apply p-4 mb-5 sm:p-8 bg-white shadow sm:rounded-lg;
+    }
+}
