@@ -7,8 +7,12 @@
 
 In order to set up your development environment it is recommended that the following are installed on your machine:
 
+- Composer
 - PHP v8.2
 - NPM v10.2.3
+
+Alternately if this is not a practical solution (for example on a Windows machine) you can implement 
+[Devilbox](http://devilbox.org/), or similar, container for local development
 
 ## Getting Started
 
